@@ -3,5 +3,5 @@ function Hourse() {
 }
 
 Hourse.prototype.run = function() {
-	console.log('running...');
+	console.log('running.....');
 }
